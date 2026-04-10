@@ -1,4 +1,4 @@
-# 🎙️ AI Voice Assistant
+# 🎙️ NeuroVoice Assistant
 
 > 🤖 Your personal voice-powered assistant that listens, understands, and responds intelligently.
 
