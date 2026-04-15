@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview of the project
 
 The **AI Voice Assistant** is a smart application that allows users to interact using voice commands. It processes speech, understands intent, and performs tasks like answering queries, opening apps, or fetching information.
 
